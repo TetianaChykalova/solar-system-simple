@@ -257,8 +257,8 @@ p {
     background-size: 100%;
     border-radius: 50%;
     position: absolute;
-    left: 48%;
-    top: 46%;
+    left: 47%;
+    top: 47.5%;
     transform: translate(-50%, -50%);
     animation: orbit-uranus 400s linear infinite ;
 }
